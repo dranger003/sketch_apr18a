@@ -1,4 +1,4 @@
-# sketch_apr18a
-ATmega328 Timer Stuff
-AC phase control (dimmer)
-Inspired by http://playground.arduino.cc/Main/ACPhaseControl
+# sketch_apr18a<br />
+ATmega328 Timer Stuff<br />
+AC phase control (dimmer)<br />
+Inspired by http://playground.arduino.cc/Main/ACPhaseControl<br />
